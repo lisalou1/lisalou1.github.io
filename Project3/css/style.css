@@ -1,0 +1,21 @@
+body {background:#808080;
+	color: #F0F8FF;
+	font-family: lato, sans-serif;
+	text-align: center;
+}
+h1 {font-family: oswald, sans-serif;
+	color:#000;
+}
+h2 {text-decoration: underline;
+	color: #483D8B;
+	}
+p {font-weight: bold;
+}
+#slogan {
+	font-style: italic;
+	font-size: 26px;
+	font-weight: 20;
+	color: #483D8B;
+}
+ul {text-align: left;
+}
