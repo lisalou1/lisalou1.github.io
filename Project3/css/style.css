@@ -17,5 +17,5 @@ p {font-weight: bold;
 	font-weight: 20;
 	color: #483D8B;
 }
-ul {text-align: left;
+ul {list-style-type: none;
 }
