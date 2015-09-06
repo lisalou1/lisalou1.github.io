@@ -1,0 +1,25 @@
+body {background:#808080;
+	color: #F0F8FF;
+	text-align: center;
+}
+h1 {color:#000;
+	font-style: italic;
+	font-weight: 700;
+	font-family: 'josefin sans', sans-serif;
+}
+h2 {text-decoration: underline;
+	color: #483D8B;
+	font-family: 'josefin sans', serif;
+	}
+p {font-family: "slabo 27px", sans-serif;
+	}
+#slogan {
+	font-size: 26px;
+	color: #483D8B;
+	font-family: 'josefin sans', serif;
+	font-weight: 600
+	}
+ul {list-style-type: none;
+	font-family: "slabo 27px", sans-serif;
+	font-style: italic;
+}
