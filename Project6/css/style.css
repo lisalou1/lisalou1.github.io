@@ -1,0 +1,111 @@
+body {color: #7e7e7e;
+	margin-top: 2px;
+	background: #fbfbfb;
+}
+header	{border-top: solid;
+		border-width: 2px;
+		border-color: #7e7e9e;
+		background: #e9e9e9;
+		/*display: inline;*/
+		margin-left: 0px;
+	margin-right: 0px;
+}
+h1 	{text-align: center;
+	font-family: Bentham, serif;
+	font-size: 100px;
+	font-weight: 300;
+	color: #7e7e7e;
+	background: #e9e9e9;
+	margin: 0px;
+}
+nav	{text-align: center;
+	background: #e9e9e9;
+	border-bottom: solid;
+	border-width: 2px;
+	border-color: #7e7e9e;
+	padding: 10px;
+}
+a {color:#7e7e7e;
+	font-size: 18px;
+	font-family: "josefin sans", sans-serif;
+	}
+#wrapper {float: left;
+font-family: Bentham, serif;
+margin-left: 70px;
+margin-right: 50px;
+}
+.about {
+	margin-right: 40px;
+	margin-top: 30px;
+	width: 20%;
+	float: left;
+	text-align: justify;
+	font-family: "josefin sans", sans-serif;
+	line-height: 20px;px;
+}
+.imagesrowone {margin-top:5px;
+		width: 70%;	
+		float: right;	
+}
+.imagesrowtwo {width: 70%;
+		float: right;
+}
+.imagesrowthree {
+		width: 70%;
+		float: right;
+} 
+#homeimage {border: solid;
+		border-width: 3px;
+		width: 30%;
+		padding: 0 10px 10px 10px
+}
+footer {text-align: center;
+	clear: both;
+	padding-top: 4px;
+	font-size: 14px;
+}
+/*Blog Page*/
+#wrapper2 { float: right;
+}
+.photobooth {border: solid;
+			border-width: 5px;
+			margin-top: 15px;
+			margin-left: 20px;
+			width: 45%;
+			text-align: center;
+			float: left;
+			background-color: #e9e9e9;
+			font-family: "josefin sans", sans-serif;
+}
+.photobooth img {border: solid;
+				padding: 10px;
+				border-width: 7px;
+				width: 45%;
+				}
+.photobooth h2 {font-size: 30px;
+				margin: 0px;
+				padding: 0px;
+				font-family: Bentham, serif;
+}
+.brunch	 {border: solid;
+	border-width: 5px;
+	margin-top: 15px;
+	margin-right: 20px;
+	width: 45%;
+	text-align: center;
+	float: right;
+	background-color: #e9e9e9;
+	font-family: "josefin sans", sans-serif;
+}
+.brunch img {border: solid;
+				padding: 10px;
+				border-width: 7px;
+				width: 45%;
+}
+.brunch h2{font-size: 30px;
+			margin: 0px;
+			padding: 0px
+			text-align: center;
+			font-family: Bentham, serif;
+}
+
